@@ -1,0 +1,16 @@
+{
+  "name": "platform_package_import",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@sadliyvi/jsextra_hw_platform_task_1": "^1.0.0"
+  }
+}
