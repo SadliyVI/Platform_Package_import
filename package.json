@@ -11,6 +11,6 @@
     "start": "node src/index.js"
   },
   "dependencies": {
-    "@sadliyvi/jsextra_hw_platform_task_1": "^1.0.0"
+    "@sadliyvi/ajs": "^1.0.2"
   }
 }

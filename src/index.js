@@ -1,3 +1,3 @@
-const ajs = require("@sadliyvi/jsextra_hw_platform_task_1/src");
+const ajs = require("@sadliyvi/ajs");
 
 console.log(ajs.info());
